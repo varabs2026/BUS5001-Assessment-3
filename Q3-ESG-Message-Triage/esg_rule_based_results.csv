@@ -1,0 +1,4 @@
+ID,Message,issue_category,urgency,sentiment,followup_required,recommended_team,escalation_reason,data_sensitivity_risk,brief_summary
+ESG-01,There is a water leak in Building C that has been running all morning.,WATER,HIGH,NEGATIVE,Y,FACILITIES,Review according to the reported issue and urgency.,LOW,There is a water leak in Building C that has been running all morning.
+ESG-02,The accessible entrance near the main building has been blocked for two days.,ACCESSIBILITY,HIGH,NEGATIVE,Y,ACCESSIBILITY,Review according to the reported issue and urgency.,LOW,The accessible entrance near the main building has been blocked for two days.
+ESG-03,One of our suppliers may not meet our sustainability policy. Please investigate.,SUPPLIER_SUSTAINABILITY,MEDIUM,NEGATIVE,Y,PROCUREMENT,Review according to the reported issue and urgency.,MEDIUM,One of our suppliers may not meet our sustainability policy. Please investigate.

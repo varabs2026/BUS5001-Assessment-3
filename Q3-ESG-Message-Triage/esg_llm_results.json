@@ -1,0 +1,47 @@
+[
+  {
+    "id": "ESG-01",
+    "message": "There is a water leak in Building C that has been running all morning.",
+    "llm_result": {
+      "issue_category": "WATER",
+      "urgency": "HIGH",
+      "sentiment": "NEGATIVE",
+      "followup_required": "Y",
+      "recommended_team": "FACILITIES",
+      "escalation_reason": "Ongoing water leak with potential for significant damage and disruption.",
+      "data_sensitivity_risk": "LOW",
+      "brief_summary": "Water leak in Building C requires immediate attention."
+    },
+    "status": "PASS"
+  },
+  {
+    "id": "ESG-02",
+    "message": "The accessible entrance near the main building has been blocked for two days.",
+    "llm_result": {
+      "issue_category": "ACCESSIBILITY",
+      "urgency": "HIGH",
+      "sentiment": "NEGATIVE",
+      "followup_required": "Y",
+      "recommended_team": "ACCESSIBILITY",
+      "escalation_reason": "Blocking the accessible entrance for an extended period can significantly impact individuals with accessibility needs and may violate compliance standards.",
+      "data_sensitivity_risk": "LOW",
+      "brief_summary": "The accessible entrance near the main building has been obstructed for two days, potentially hindering access for individuals with disabilities."
+    },
+    "status": "PASS"
+  },
+  {
+    "id": "ESG-03",
+    "message": "One of our suppliers may not meet our sustainability policy. Please investigate.",
+    "llm_result": {
+      "issue_category": "SUPPLIER_SUSTAINABILITY",
+      "urgency": "MEDIUM",
+      "sentiment": "NEGATIVE",
+      "followup_required": "Y",
+      "recommended_team": "PROCUREMENT",
+      "escalation_reason": "Potential non-compliance with sustainability standards.",
+      "data_sensitivity_risk": "LOW",
+      "brief_summary": "Supplier sustainability concern requires investigation."
+    },
+    "status": "PASS"
+  }
+]
